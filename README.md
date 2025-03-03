@@ -10,6 +10,6 @@ The problems are organized into different categories:
 This repository is for personal learning, but feel free to explore and suggest improvements!
 
 ## 📬 Contact
-For any queries, connect with me on **GitHub** or email me at **your-email@example.com**.
+For any queries, connect with me on **GitHub** or email me at **vemo12112920x3@gmail.com**.
 
 
